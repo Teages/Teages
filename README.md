@@ -4,6 +4,9 @@
 - Cytoid: [teages_0v0](https://cytoid.io/profile/teages_0v0)
 - osu!: [Teages](https://osu.ppy.sh/users/12756920)
 
+Blacklist:
+- Tencent
+
 <!--
 **Teages/Teages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
