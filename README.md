@@ -5,3 +5,8 @@
 - osu!: [Teages](https://osu.ppy.sh/users/12756920)
 
 Working for [@Cytoid](https://github.com/Cytoid)
+
+### TODO:
+
+- [@Teages/nuxt-i18n-lite](#)
+- [@Teages/nuxt-urql](#)
