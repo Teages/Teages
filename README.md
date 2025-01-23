@@ -11,5 +11,5 @@ Working for [@Cytoid](https://github.com/Cytoid) and __. <!-- guess -->
 > will be carried out in sequence
 
 - [ ] Personal UI module.
-- [ ] new blog with both English and Chinese
+- [ ] new blog writen in both English and Chinese
 
