@@ -8,8 +8,6 @@ Working for [@Cytoid](https://github.com/Cytoid) and __. <!-- guess -->
 
 ### Goal
 
-> will be carried out in sequence
-
-- [ ] Personal UI module.
+- [ ] release `gqfn` v1
 - [ ] new blog writen in both English and Chinese
 
