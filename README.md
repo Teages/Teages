@@ -8,6 +8,13 @@ Working for [@Cytoid](https://github.com/Cytoid) and __. <!-- guess -->
 
 ### Goal
 
+#### 2025
+
 - [ ] release `gqfn` v1
 - [ ] new blog writen in both English and Chinese
+- [ ] release Cytoid v2.1.2 and v2.2.0
+- [ ] promoting `.d.vue.ts` to standard
 
+#### 2026
+
+- [ ] go back to Hong Kong (maybe 2027 or later)
