@@ -11,10 +11,16 @@ Working for [@Cytoid](https://github.com/Cytoid) and __. <!-- guess -->
 #### 2025
 
 - [ ] release `gqfn` v1
-- [ ] new blog writen in both English and Chinese
-- [ ] release Cytoid v2.1.2 and v2.2.0
-- [ ] promoting `.d.vue.ts` to standard
+- [x] release Cytoid v2.1.2 in 2025 Q2
+- [x] release Cytoid v2.1.3 in 2025 Q3
+- [ ] release Cytoid v2.1.4 in 2025 Q4
 
 #### 2026
+- [ ] new blog writen in both English and Chinese
+- [ ] release Cytoid v2.2.0 with osu like hitsound
 
-- [ ] go back to Hong Kong (maybe 2027 or later)
+<!--
+#### Someday...
+
+- [ ] go back to Hong Kong
+-->
