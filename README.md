@@ -17,7 +17,7 @@ Working for [@Cytoid](https://github.com/Cytoid) and __. <!-- guess -->
 
 #### 2026
 - [ ] new blog writen in both English and Chinese
-- [ ] release Cytoid v2.2.0 with osu like hitsound
+- [ ] release Cytoid v2.2.0 with hitsound
 
 <!--
 #### Someday...
