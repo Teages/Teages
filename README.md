@@ -10,7 +10,6 @@ Working for [@Cytoid](https://github.com/Cytoid) and __. <!-- guess -->
 
 #### 2025
 
-- [ ] release `gqfn` v1
 - [x] release Cytoid v2.1.2 in 2025 Q2
 - [x] release Cytoid v2.1.3 in 2025 Q3
 - [ ] release Cytoid v2.1.5 in 2025 Q4
@@ -19,6 +18,7 @@ Working for [@Cytoid](https://github.com/Cytoid) and __. <!-- guess -->
 - [ ] new blog writen in both English and Chinese
 - [ ] release Cytoid v2.1.6 in 2026 Q1
 - [ ] release Cytoid v2.2.0 with hitsound
+- [ ] release `gqfn` v1
 
 <!--
 
